@@ -17,9 +17,9 @@ void merging(int a[], int l, int m, int h);
 void countingsort(int a[], int n);
 void heapsort(int a[], int n);
 void heapify(int a[], int n, int i);
-//radixsort
-//bucketsort
-//treesort
+//radixsort - https://www.youtube.com/watch?v=nu4gDuFabIM&list=PLqM7alHXFySHrGIxeBOo4-mKO4H8j2knW&index=6
+//bucketsort - https://www.youtube.com/watch?v=VuXbEb5ywrU&list=PLqM7alHXFySHrGIxeBOo4-mKO4H8j2knW&index=7
+//treesort - https://www.youtube.com/watch?v=n2MLjGeK7qA&list=PLqM7alHXFySHrGIxeBOo4-mKO4H8j2knW&index=15
 
 
 int main()
